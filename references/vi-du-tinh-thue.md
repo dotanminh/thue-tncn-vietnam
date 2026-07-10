@@ -1,15 +1,15 @@
 # Ví Dụ Tính Thuế TNCN - Các Trường Hợp Phổ Biến
 
 > **Áp dụng:** Kỳ tính thuế 2026 | **Biểu thuế 5 bậc** | **Giảm trừ bản thân:** 15,5 tr/tháng
-> **Confidence:** MEDIUM (tính toán minh họa, kiểm tra lại với kế toán chuyên nghiệp)
+> **Cập nhật lần cuối:** 11/07/2026 | **Confidence:** MEDIUM (tính toán minh họa, kiểm tra lại với kế toán chuyên nghiệp)
 
 ## Case 1: Nhân viên văn phòng - 1 nơi thu nhập
 
 **Thông tin:**
 - Lương gross: 25 triệu/tháng
-- Bảo hiểm bắt buộc: Lương 25tr < trần BHXH/BHYT (46,8tr) và < trần BHTN vùng nào cũng được -> tính đủ 10,5% trên lương thực tế
+- Bảo hiểm bắt buộc: Lương 25tr < trần BHXH/BHYT (50,6tr) và < trần BHTN vùng nào cũng được -> tính đủ 10,5% trên lương thực tế.
 - BHBB = 25tr x 10,5% = 2.625.000 (BHXH 2.000.000 + BHYT 375.000 + BHTN 250.000)
-- Người phụ thuộc: 1 con nhỏ
+- Người phụ thuộc: 1 con nhỏ.
 
 **Tính:**
 | Bước | Công thức | Kết quả |
@@ -33,8 +33,6 @@
 - Không NPT
 
 **Tính BHBB (phần NLĐ đóng):**
-
-> [!IMPORTANT]
 > BHXH/BHYT và BHTN có **trần đóng khác nhau**.
 
 | Loại | Tỷ lệ | Mức lương tính đóng | Số tiền |
@@ -57,72 +55,62 @@
 
 **Kết luận:** Lương 50tr (Vùng I), không NPT -> thuế ~2,43tr/tháng (~29,1tr/năm).
 
-> **Lưu ý:** Nếu NLĐ làm việc tại Vùng IV (lương tối thiểu 3.700.000), trần BHTN = 74.000.000, BHTN vẫn tính trên lương 50tr (chưa vượt trần). Kết quả tương tự.
-
 ---
 
 ## Case 3: Freelancer bán hàng online (Shopee)
 
 **Thông tin:**
 - Doanh thu năm: 800 triệu (bán hàng hóa trên Shopee)
-- DT 800tr ≤ 1 tỷ -> **MIỄN THUẾ** theo NĐ 141/2026/NĐ-CP
+- DT 800tr ≤ 1 tỷ -> **MIỄN THUẾ** hoàn toàn theo NĐ 141/2026/NĐ-CP (ngưỡng miễn thuế mới là 1 tỷ đồng/năm).
 
-> [!IMPORTANT]
-> **So với quy định cũ (NĐ 68/2026):** DT 800tr > 500tr nên phải nộp thuế 12 triệu/năm.
-> **Theo NĐ 141/2026 (ngưỡng 1 tỷ):** DT 800tr ≤ 1 tỷ -> **MIỄN HOÀN TOÀN** thuế TNCN + GTGT.
-> Nếu đã nộp thuế theo ngưỡng cũ -> được hoàn/bù trừ theo Điều 12 NĐ 68/2026.
-
-**Kết luận:** Người bán hàng online DT 800tr/năm -> miễn thuế hoàn toàn. Chỉ kê khai 1 lần/năm.
-
-**Lưu ý:** Shopee vẫn có thể đã khấu trừ thuế thay (từ 01/07/2025). Kiểm tra tổng thuế đã khấu trừ trên Shopee Seller Center và yêu cầu hoàn lại khi quyết toán.
+**Kết luận:** Người bán hàng online doanh thu 800 triệu/năm -> miễn thuế hoàn toàn. Chỉ cần kê khai doanh thu 1 lần/năm trước 31/01 năm sau.
 
 ---
 
-## Case 4: KOL / Nhà sáng tạo nội dung
+## Case 4: KOL / Nhà sáng tạo nội dung (Khấu trừ vãng lai mới)
 
 **Thông tin:**
-- Thu nhập từ booking quảng cáo: 300 tr/năm (từ nhiều DN)
-- Thu nhập từ YouTube: 150 tr/năm
-- Tổng: 450 tr/năm
-- Nội dung số -> thuế suất: GTGT 5%, TNCN 5%
+- Nhận booking quảng cáo từ 5 doanh nghiệp trong nước với các mức chi trả:
+  * Doanh nghiệp A: 12 triệu đồng (đã ký HĐ dịch vụ vãng lai).
+  * Doanh nghiệp B: 4,5 triệu đồng.
+  * Doanh nghiệp C: 6 triệu đồng.
+- Tổng thu nhập từ YouTube AdSense trong năm: 150 triệu đồng.
+- Tổng doanh thu cả năm: 172,5 triệu đồng.
 
-**Tính:**
-| Nguồn | DT | GTGT (5%) | TNCN (5%) |
-|-------|-----|-----------|-----------|
-| Booking (từ DN) | 300 tr | - | DN đã khấu trừ 10% = 30 tr |
-| YouTube (nước ngoài) | 150 tr | 7.500.000 | 7.500.000 |
-| **Tổng** | 450 tr | **7.500.000** | **37.500.000** |
+**Khấu trừ thuế tại nguồn 10% (TT 87/2026/TT-BTC):**
+* **Doanh nghiệp A (12 triệu ≥ 5 triệu):** Khấu trừ 10% tại nguồn = 1,2 triệu đồng.
+* **Doanh nghiệp B (4,5 triệu < 5 triệu):** Nhận đủ 4,5 triệu đồng, không bị khấu trừ tại nguồn.
+* **Doanh nghiệp C (6 triệu ≥ 5 triệu):** Khấu trừ 10% tại nguồn = 600.000 đồng.
+* **Tổng thuế TNCN bị khấu trừ tạm nộp:** 1,8 triệu đồng.
 
-**Lưu ý:**
-- DT 450 tr ≤ 1 tỷ (ngưỡng miễn thuế mới NĐ 141/2026) -> **MIỄN THUẾ TNCN + GTGT**
-- DN booking đã khấu trừ 10% tại nguồn (30 tr) -> được hoàn lại khi quyết toán
-- Thu nhập YouTube từ nước ngoài: tự kê khai (nhưng vẫn miễn nếu tổng DT ≤ 1 tỷ)
+**Nghĩa vụ thuế cuối năm:**
+- Tổng doanh thu cả năm của cá nhân là 172,5 triệu đồng.
+- Mức doanh thu này nhỏ hơn ngưỡng chịu thuế đối với cá nhân kinh doanh (1 tỷ đồng/năm theo NĐ 141/2026/NĐ-CP) -> **được miễn thuế hoàn toàn**.
+- Khi thực hiện quyết toán thuế cuối năm, cá nhân này sẽ được hoàn lại toàn bộ số thuế **1,8 triệu đồng** đã bị khấu trừ tại nguồn.
 
 ---
 
-## Case 5: Freelancer thu nhập thấp
+## Case 5: Người nhận thu nhập vãng lai có cam kết Mẫu 08/CK-TNCN
 
 **Thông tin:**
-- Thu nhập từ viết bài freelance: 80 triệu/năm
-- Không có thu nhập khác
+- Sinh viên làm bán thời gian cho một công ty truyền thông.
+- Thu nhập nhận được: 8 triệu đồng/tháng.
+- Ước tính tổng thu nhập cả năm dưới ngưỡng chịu thuế TNCN (dưới 186 triệu đồng/năm).
 
-**Kết luận:**
-- DT 80 tr ≤ 1 tỷ -> **MIỄN THUẾ TNCN + GTGT** (ngưỡng 1 tỷ theo NĐ 141/2026)
-- Vẫn phải kê khai doanh thu 1 lần/năm (trước 31/01/2027)
-- Vẫn nên đăng ký MST cá nhân
+**Khấu trừ thuế:**
+- Khoản thanh toán 8 triệu đồng/lần ≥ 5 triệu đồng, thuộc diện bị khấu trừ 10% thuế TNCN tại nguồn (800.000đ/tháng).
+- Để nhận đủ 8 triệu đồng không bị khấu trừ, sinh viên này làm bản cam kết **Mẫu 08/CK-TNCN** nộp cho công ty (cam kết tổng thu nhập cả năm sau khi giảm trừ gia cảnh chưa đến mức phải nộp thuế).
+- Công ty căn cứ vào bản cam kết để chi trả đủ 8 triệu đồng/tháng.
 
 ---
 
 ## Case 6: Expat cư trú + Thu nhập freelance (Multi-Income)
 
 **Thông tin:**
-- Chuyên gia Hàn Quốc, ở VN > 183 ngày → cư trú
-- Lương từ công ty VN: 60 triệu/tháng (Vùng I)
-- Thu nhập freelance tư vấn: 200 triệu/năm (qua hợp đồng dịch vụ)
-- 1 vợ VN (NPT), không con
-
-> [!IMPORTANT]
-> Case này kích hoạt **Rule 7 (Multi-Income)** → load cả `tong-quan-thue.md` + `freelancer-guide.md` + `nguoi-nuoc-ngoai-guide.md`
+- Chuyên gia Hàn Quốc, ở Việt Nam > 183 ngày -> cư trú.
+- Lương từ công ty tại Việt Nam: 60 triệu/tháng (Vùng I).
+- Thu nhập freelance tư vấn: 200 triệu/năm (qua hợp đồng dịch vụ).
+- 1 vợ Việt Nam (người phụ thuộc), không con.
 
 **Phần 1: Thuế lương (biểu lũy tiến)**
 
@@ -147,71 +135,15 @@ Thuế lương: 3.078.600 VNĐ/tháng
 ```
 
 **Phần 2: Thuế freelance**
-
-- DT freelance 200 tr/năm ≤ 1 tỷ → **miễn thuế TNCN + GTGT** (NĐ 141/2026)
-- Tuy nhiên, DN trả thu nhập vãng lai đã khấu trừ 10% tại nguồn = 20 tr/năm
-- Khi quyết toán cuối năm → được hoàn lại 20 triệu
-
-**Tổng hợp:**
-| Mục | Số tiền/tháng | Số tiền/năm |
-|-----|-------------|-------------|
-| Thuế lương | 3.078.600 | 36.943.200 |
-| Thuế freelance | 0 (miễn) | 0 |
-| DN đã KT 10% freelance | | -20.000.000 (hoàn lại) |
-| **Thuế thực nộp** | | **16.943.200/năm** |
+- Doanh thu freelance 200 tr/năm ≤ 1 tỷ -> **miễn thuế TNCN + GTGT** (NĐ 141/2026/NĐ-CP).
+- Hàng tháng, nếu doanh nghiệp trả thu nhập vãng lai có khoản nào từ 5 triệu trở lên và đã khấu trừ 10% tại nguồn, chuyên gia này sẽ được hoàn lại toàn bộ số thuế đó khi quyết toán thuế năm.
 
 ---
 
-## Case 7: Chuyển đổi cư trú giữa năm (Edge Case)
+## Case 7: Nhân viên tăng ca, làm thêm giờ (từ 01/07/2026)
 
 **Thông tin:**
-- Chuyên gia Nhật đến VN ngày 01/08/2026
-- Lương: 70 triệu/tháng
-- Năm 2026: ở VN từ 01/08 đến 31/12 = 153 ngày (< 183 ngày)
-- Năm 2027: tiếp tục ở VN
-
-> [!WARNING]
-> Trường hợp phức tạp - khuyến nghị tham vấn đại lý thuế chuyên nghiệp.
-
-**Phân tích theo năm:**
-
-| Năm | Số ngày tại VN | Tình trạng | Thuế suất |
-|-----|---------------|-----------|-----------|
-| 2026 | 153 ngày (01/08 - 31/12) | **Không cư trú** | Flat 20% |
-| 2027 (nếu ở tiếp) | ≥ 183 ngày | **Cư trú** | Lũy tiến 5-35% |
-
-**Năm 2026 (không cư trú):**
-```
-Thuế/tháng: 70 tr x 20% = 14.000.000
-Thuế 5 tháng (08-12/2026): 70.000.000
-Không được giảm trừ gia cảnh, không được giảm trừ BHBB
-```
-
-**Năm 2027 (cư trú) - ước tính:**
-```
-Thu nhập: 70.000.000
-Trừ BHBB: -5.146.000 (BHXH 3.744.000 + BHYT 702.000 + BHTN 700.000)
-Trừ bản thân: -15.500.000
-Thu nhập tính thuế: 49.354.000
-
-Bậc 1: 10 tr x 5% = 500.000
-Bậc 2: 20 tr x 10% = 2.000.000
-Bậc 3: 19.354.000 x 20% = 3.870.800
-Thuế/tháng: 6.370.800
-Tiết kiệm so với flat 20%: 7.629.200/tháng (~91,5 tr/năm)
-```
-
-> **Lưu ý quan trọng:**
-> - Quy tắc "12 tháng liên tục": Nếu tính từ 01/08/2026 đến 31/07/2027 mà đủ 183 ngày, có thể được xét cư trú cho cả khoảng đó
-> - Cần Certificate of Tax Residence từ Nhật để áp dụng DTA
-> - Khuyến nghị: Liên hệ Cục Thuế hoặc đại lý thuế để xác định chính xác
-
----
-
-## Case 8: Nhân viên tăng ca, làm thêm giờ (từ 01/07/2026)
-
-**Thông tin:**
-- Lương gross cơ bản: 20 triệu/tháng (Vùng I)
+- Lương gross cơ bản: 20 triệu/tháng (Vùng I).
 - Trong tháng, làm thêm giờ ban đêm và ngày nghỉ được nhận thêm: 5 triệu đồng (gồm 3 triệu tiền lương tính theo đơn giá giờ làm việc bình thường và 2 triệu tiền lương chênh lệch trả thêm do làm thêm giờ ban đêm/ngày nghỉ).
 - Không người phụ thuộc.
 
@@ -221,9 +153,9 @@ Tiết kiệm so với flat 20%: 7.629.200/tháng (~91,5 tr/năm)
 - BHTN (1%): 20tr x 1% = 200.000đ
 - Tổng BHBB = **2.100.000đ**
 
-**So sánh cách tính thuế TNCN cũ vs mới (áp dụng từ 01/07/2026):**
+**So sánh cách tính thuế TNCN cũ vs mới (từ 01/07/2026 - Luật 109/2025/QH15):**
 
-| Chỉ tiêu | Cách tính cũ (Trước 01/07/2026) | Cách tính mới (Từ 01/07/2026 - Luật 109/2025/QH15) |
+| Chỉ tiêu | Cách tính cũ (Trước 01/07/2026) | Cách tính mới (Từ 01/07/2026) |
 |---|---|---|
 | **Thu nhập thực nhận** | 25.000.000đ | 25.000.000đ |
 | **Phần được miễn thuế** | Chỉ miễn phần chênh lệch trả thêm:<br>**2.000.000đ** | Miễn toàn bộ 100% tiền lương làm thêm giờ:<br>**5.000.000đ** (Khoản 8 Điều 4) |
@@ -233,16 +165,37 @@ Tiết kiệm so với flat 20%: 7.629.200/tháng (~91,5 tr/năm)
 | **Thu nhập tính thuế (TNTT)** | **5.400.000đ** | **2.400.000đ** |
 | **Thuế TNCN phải nộp** | Bậc 1 (5%): 5,4tr x 5% = **270.000đ** | Bậc 1 (5%): 2,4tr x 5% = **120.000đ** |
 
-**Kết luận:** Nhờ quy định mới của Luật 109/2025/QH15, người lao động được miễn thuế toàn bộ 100% phần lương ngoài giờ (không phân biệt phần gốc hay phần chênh lệch), giúp tiết kiệm thêm **150.000đ/tháng** tiền thuế TNCN thực nộp.
+**Kết luận:** Nhờ quy định mới, người lao động được miễn thuế toàn bộ 100% phần lương ngoài giờ, giúp tiết kiệm thêm **150.000đ/tháng** tiền thuế TNCN thực nộp.
 
 ---
 
-> [!WARNING]
-> Các ví dụ trên chỉ minh họa cách tính. Thực tế có thể phức tạp hơn do:
-> - Có nhiều nguồn thu nhập khác nhau
-> - Trần đóng BHXH thay đổi
-> - Các khoản giảm trừ khác (từ thiện, bảo hiểm nhân thọ...)
-> - Quy định có thể thay đổi
-> 
-> **Luôn tham khảo kế toán hoặc đại lý thuế chuyên nghiệp.**
+## Case 8: Giảm trừ chi phí Y tế và Giáo dục khi quyết toán năm (Quy định mới)
 
+**Thông tin:**
+- Anh D có thu nhập chịu thuế cả năm 2026 là 360 triệu đồng (tiền lương, tiền công).
+- BHBB đã đóng cả năm: 37,8 triệu đồng.
+- Giảm trừ gia cảnh bản thân: 186 triệu đồng.
+- Đăng ký 1 người phụ thuộc (con đẻ): giảm trừ 74,4 triệu đồng.
+- Trong năm, anh D có phát sinh chi phí học phí cho con tại trường đại học trong nước là 30 triệu đồng (có hóa đơn ghi mã số thuế của anh D) và chi phí khám bệnh cho bản thân tại bệnh viện công hết 15 triệu đồng.
+
+**Áp dụng giảm trừ chi phí Giáo dục và Y tế (NĐ 253/2026/NĐ-CP):**
+* **Giáo dục (cho con - NPT):** Học phí thực tế là 30 triệu đồng, nhưng mức giảm trừ tối đa khống chế là **24 triệu đồng/năm**. Anh D được giảm trừ 24 triệu đồng.
+* **Y tế (cho bản thân):** Chi phí khám chữa bệnh là 15 triệu đồng, dưới mức tối đa khống chế (23 triệu đồng/năm). Anh D được giảm trừ đủ 15 triệu đồng.
+* **Tổng chi phí được giảm trừ thêm:** 24 triệu + 15 triệu = 39 triệu đồng.
+
+**Tính thuế TNCN quyết toán:**
+- Thu nhập tính thuế = 360 triệu - 37,8 triệu (BHBB) - 186 triệu (bản thân) - 74,4 triệu (NPT) - 39 triệu (chi phí GD & YT) = **22,8 triệu đồng/năm** (bình quân 1,9 triệu đồng/tháng).
+- Thuế TNCN phải nộp cả năm: 22,8 triệu x 5% = **1.140.000 đồng**.
+- Nếu không có quy định giảm trừ mới này, thu nhập tính thuế của anh D là 61,8 triệu đồng/năm, thuế TNCN phải nộp là: (50 triệu x 5%) + (11,8 triệu x 10%) = 3.680.000 đồng. Quy định mới giúp anh D tiết kiệm được **2.540.000 đồng/năm**.
+
+---
+
+## Case 9: Thuế chuyển nhượng tài sản số (NĐ 253/2026/NĐ-CP)
+
+**Thông tin:**
+- Cá nhân A thực hiện chuyển nhượng một số lượng tài sản mã hóa (crypto) trên sàn giao dịch cho cá nhân B và nhận về số tiền thanh toán là 300 triệu đồng.
+
+**Tính thuế:**
+- Thuế suất áp dụng đối với chuyển nhượng tài sản số: **0,1%** trên giá trị chuyển nhượng từng lần.
+- Thuế TNCN cá nhân A phải nộp = 300 triệu x 0,1% = **300.000 đồng**.
+- Cá nhân A tự kê khai và nộp thuế theo từng lần phát sinh giao dịch chuyển nhượng.

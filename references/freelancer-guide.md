@@ -1,21 +1,21 @@
 # Hướng Dẫn Thuế TNCN Cho Freelancer, KOL & Người Bán Hàng Online
 
-> **Áp dụng từ:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, Luật 09/2026/QH16, NQ 198/2025/QH15, NĐ 141/2026/NĐ-CP
-> **Confidence:** HIGH (nguồn chính thống) | Thuế khoán bãi bỏ từ 01/01/2026 | Ngưỡng miễn thuế: 1 tỷ/năm | Data cập nhật: 01/07/2026
+> **Áp dụng từ:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, Luật 09/2026/QH16, NĐ 253/2026/NĐ-CP, TT 87/2026/TT-BTC, NQ 198/2025/QH15, NĐ 141/2026/NĐ-CP
+> **Confidence:** HIGH (nguồn chính thống) | Thuế khoán bãi bỏ từ 01/01/2026 | Ngưỡng miễn thuế: 1 tỷ/năm | Data cập nhật: 11/07/2026
 
 ## Bạn Thuộc Nhóm Nào?
 
 ### Nhóm 1: Freelancer / Nhà sáng tạo nội dung
-- Nhận thu nhập từ dịch vụ (viết bài, thiết kế, lập trình, tư vấn...)
-- Thu nhập từ nước ngoài (Upwork, PayPal, Google, YouTube)
+- Nhận thu nhập từ dịch vụ (viết bài, thiết kế, lập trình, tư vấn, dịch thuật...).
+- Thu nhập từ nước ngoài (Upwork, PayPal, Google, YouTube, AdSense).
 
 ### Nhóm 2: KOL / Influencer
-- Thu nhập từ quảng cáo, review sản phẩm, booking
-- Thu nhập từ platform (TikTok, YouTube, Instagram)
+- Thu nhập từ quảng cáo, review sản phẩm, booking, livestream.
+- Thu nhập từ platform (TikTok, YouTube, Facebook, Instagram).
 
 ### Nhóm 3: Người bán hàng online
-- Bán trên sàn TMĐT (Shopee, Lazada, TikTok Shop)
-- Bán qua mạng xã hội (Facebook, Zalo, livestream)
+- Bán trên sàn TMĐT (Shopee, Lazada, TikTok Shop).
+- Bán qua mạng xã hội (Facebook, Zalo, livestream) hoặc website riêng.
 
 ## Decision Tree: Bạn Phải Nộp Thuế Không?
 
@@ -23,7 +23,7 @@
 Doanh thu/năm bao nhiêu?
 │
 ├── ≤ 1 tỷ
-│   └── Miễn thuế TNCN + GTGT (chỉ kê khai DT 1 lần/năm)
+│   └── Miễn thuế TNCN + GTGT (chỉ kê khai doanh thu 1 lần/năm)
 │
 ├── 1 tỷ - 3 tỷ
 │   └── Phải nộp TNCN + GTGT (theo % doanh thu, xem bảng dưới)
@@ -35,10 +35,10 @@ Doanh thu/năm bao nhiêu?
 ```
 
 > [!IMPORTANT]
-> **Từ 2026:** Ngưỡng miễn thuế: **1 tỷ/năm** (NĐ 141/2026/NĐ-CP, sửa đổi NĐ 68/2026/NĐ-CP).
-> Thuế khoán bãi bỏ, mọi HKD/CNKD tự kê khai. Xem chi tiết tại `thue-khoan-guide.md`.
+> **Từ 2026:** Ngưỡng miễn thuế đối với hộ và cá nhân kinh doanh là **1 tỷ/năm** (NĐ 141/2026/NĐ-CP, sửa đổi NĐ 68/2026/NĐ-CP).
+> Thuế khoán đã bãi bỏ, mọi HKD/CNKD tự kê khai. Xem chi tiết tại `thue-khoan-guide.md`.
 
-## Bảng Thuế Suất Theo Ngành Nghề
+## Bảng Thuế Suất Theo Ngành Nghề (Doanh Thu > 1 tỷ/năm)
 
 | Hoạt động | Thuế GTGT | Thuế TNCN | Ví dụ |
 |-----------|-----------|-----------|-------|
@@ -51,34 +51,33 @@ Doanh thu/năm bao nhiêu?
 > [!IMPORTANT]
 > **Lưu ý pháp lý từ 01/07/2026 (NĐ 137/2026/NĐ-CP):** Cán bộ, công chức, viên chức và lực lượng vũ trang (sĩ quan Công an, Quân đội) **bị cấm hoàn toàn** ký hợp đồng tham gia hoạt động bán hàng đa cấp. Doanh nghiệp đa cấp không được ký hợp đồng đại lý đa cấp với các đối tượng này.
 
-## Khấu Trừ Tại Nguồn (10%)
+## Khấu Trừ Tại Nguồn (10%) đối với thu nhập vãng lai
 
-Khi freelancer/KOL nhận thu nhập từ doanh nghiệp:
+Khi freelancer/KOL nhận thu nhập từ dịch vụ do doanh nghiệp tại Việt Nam chi trả:
 
-| Điều kiện | Áp dụng |
-|-----------|---------|
-| Thu nhập >= 2 triệu/lần | DN khấu trừ 10% thuế TNCN tại nguồn |
-| Thu nhập < 2 triệu/lần | Không khấu trừ |
-| Có cam kết 08/CK-TNCN | Tạm không khấu trừ (vẫn phải QT cuối năm) |
+| Điều kiện | Áp dụng | Căn cứ |
+|-----------|---------|--------|
+| Thu nhập **từ 5 triệu đồng/lần trở lên** | Doanh nghiệp khấu trừ 10% thuế TNCN tại nguồn | TT 87/2026/TT-BTC |
+| Thu nhập **dưới 5 triệu đồng/lần** | Không khấu trừ tại nguồn | TT 87/2026/TT-BTC |
+| Có bản cam kết Mẫu 08/CK-TNCN | Tạm không khấu trừ (NNT cam kết tổng thu nhập năm chưa đến ngưỡng chịu thuế) | TT 80/2021/TT-BTC |
 
-**Mẫu 08/CK-TNCN:** Cam kết thu nhập cả năm chưa đến ngưỡng chịu thuế. Nộp cho DN chi trả.
+## Thuế TNCN đối với Chuyển nhượng Tài sản số
+* **Đối tượng chịu thuế:** Thu nhập từ chuyển nhượng tài sản ảo, tài sản mã hóa (crypto, NFT) và tài sản số khác.
+* **Thuế suất:** **0,1%** tính trên giá trị chuyển nhượng từng lần (không áp dụng giảm trừ gia cảnh hay chi phí).
+* **Căn cứ pháp lý:** Khoản 4 Điều 16 và Điều 62 Nghị định 253/2026/NĐ-CP.
 
 ## Người Bán Trên Sàn TMĐT
 
-Từ 01/07/2025:
-- **Sàn có thanh toán tích hợp** (Shopee, TikTok Shop): Sàn khấu trừ + nộp thuế thay
-- **Kênh không tích hợp** (Facebook, Zalo, livestream): Tự đăng ký MST, tự kê khai
-
-**Lưu ý:** 
-- Người bán có DT > 3 tỷ/năm vẫn phải tự quyết toán cuối năm.
-- **Hóa đơn điện tử (HĐĐT):** Nếu tổng doanh thu của seller/freelancer **vượt 1 tỷ đồng/năm**, bắt buộc phải sử dụng HĐĐT có mã CQT và phải thực hiện đăng ký HĐĐT trong vòng **30 ngày** kể từ ngày vượt ngưỡng (NĐ 68/2026/NĐ-CP + NĐ 141/2026/NĐ-CP). Nếu dưới 1 tỷ thì được miễn đăng ký HĐĐT.
+- **Sàn có thanh toán tích hợp** (Shopee, TikTok Shop): Sàn khấu trừ + nộp thuế thay (từ 01/07/2025).
+- **Kênh không tích hợp** (Facebook, Zalo, livestream tự do): Tự đăng ký MST, tự kê khai.
+- **Hóa đơn điện tử (HĐĐT):** Nếu tổng doanh thu của seller/freelancer **vượt 1 tỷ đồng/năm**, bắt buộc phải sử dụng HĐĐT có mã CQT và phải thực hiện đăng ký HĐĐT trong vòng **30 ngày** kể từ ngày vượt ngưỡng (NĐ 68/2026/NĐ-CP + NĐ 141/2026/NĐ-CP).
 
 ## Thu Nhập Từ Nước Ngoài
 
-Cá nhân cư trú VN nhận thu nhập từ nước ngoài (YouTube, TikTok, Upwork, Google...):
-- **PHẢI** kê khai và nộp thuế TNCN tại VN
-- Thuế suất: theo bảng ngành nghề ở trên
-- Kê khai: theo quý nếu DT > 1 tỷ/năm
+Cá nhân cư trú Việt Nam nhận thu nhập từ nước ngoài (Upwork, PayPal, Google, YouTube, AdSense...):
+- **PHẢI** kê khai và nộp thuế TNCN tại Việt Nam.
+- Thuế suất: theo tỷ lệ % ngành nghề ở trên.
+- Kê khai: theo quý nếu doanh thu > 1 tỷ/năm.
 
 ## Lịch Kê Khai
 
@@ -88,18 +87,10 @@ Cá nhân cư trú VN nhận thu nhập từ nước ngoài (YouTube, TikTok, Up
 | 1 tỷ - 3 tỷ/năm | Theo quý (4 lần/năm) |
 | > 3 tỷ/năm | Theo quý + quyết toán năm |
 
-## Rủi Ro Nếu Không Kê Khai
-
-- **Truy thu thuế** + tiền phạt chậm nộp
-- **Phạt hành chính** vi phạm kê khai thuế
-- **Trách nhiệm hình sự** nếu trốn thuế số tiền lớn
-- Cơ quan thuế đang kết nối dữ liệu với **Bộ Công an, Ngân hàng Nhà nước, sàn TMĐT**
-
 ## Checklist Cho Freelancer/KOL/Seller
 
-- [ ] Đăng ký mã số thuế cá nhân
-- [ ] Theo dõi tổng doanh thu trong năm
-- [ ] Lưu tất cả hóa đơn, chứng từ thu nhập
-- [ ] Kê khai đúng hạn (theo quý hoặc năm tùy mức DT)
-- [ ] Giữ bản cam kết 08/CK-TNCN (nếu DT < ngưỡng)
-- [ ] Đăng ký NPT để được giảm trừ gia cảnh (nếu có thu nhập lương)
+- [ ] Đăng ký mã số thuế cá nhân.
+- [ ] Theo dõi tổng doanh thu trong năm.
+- [ ] Lưu tất cả hóa đơn, chứng từ thu nhập.
+- [ ] Kê khai đúng hạn (theo quý hoặc năm tùy mức DT).
+- [ ] Nộp bản cam kết 08/CK-TNCN nếu tổng thu nhập chịu thuế cả năm chưa tới ngưỡng (để không bị khấu trừ 10% tại nguồn cho khoản thanh toán trên 5 triệu).

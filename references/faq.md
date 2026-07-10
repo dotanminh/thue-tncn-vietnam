@@ -3,57 +3,83 @@
 ## Câu hỏi phổ biến
 
 ### Q1: Thu nhập bao nhiêu thì phải nộp thuế TNCN?
-**Nếu là người làm công ăn lương:** Thu nhập sau giảm trừ gia cảnh > 0 thì phải nộp. Với mức giảm trừ 2026, nếu bạn chỉ có 1 bản thân (không NPT), thu nhập <= 15,5 tr/tháng thì chưa phải nộp.
+**Nếu là người làm công ăn lương:** Thu nhập sau giảm trừ gia cảnh > 0 thì phải nộp. Với mức giảm trừ 2026, nếu bạn chỉ có 1 bản thân (không người phụ thuộc), thu nhập dưới hoặc bằng 15,5 triệu đồng/tháng thì chưa phải nộp thuế.
 
-**Nếu là cá nhân kinh doanh:** Doanh thu ≤ 1 tỷ/năm -> miễn thuế TNCN + GTGT (NĐ 141/2026/NĐ-CP). Từ 1 tỷ trở lên thì nộp theo % doanh thu.
+**Nếu là cá nhân kinh doanh (freelancer/KOL/seller):** Doanh thu dưới hoặc bằng **1 tỷ đồng/năm** thì được miễn thuế TNCN và GTGT (NĐ 141/2026/NĐ-CP). Doanh thu từ trên 1 tỷ đồng/năm mới phải nộp thuế theo tỷ lệ % doanh thu hoặc theo thu nhập thực tế.
 
-### Q2: Tôi bán hàng trên Shopee, có phải tự nộp thuế không?
-Từ 01/07/2025, Shopee khấu trừ + nộp thuế thay bạn. Tuy nhiên nếu DT > 3 tỷ/năm, bạn vẫn phải tự quyết toán cuối năm.
+---
 
-### Q3: Tôi bán hàng trên Facebook/Zalo, có phải nộp thuế không?
-CÓ, nếu doanh thu > 1 tỷ/năm (NĐ 141/2026). Bạn phải tự đăng ký MST, tự kê khai và nộp thuế vì các kênh này không có tích hợp thanh toán. Nếu DT ≤ 1 tỷ thì miễn thuế, chỉ kê khai 1 lần/năm.
+### Q2: Tôi bán hàng trên Shopee/TikTok Shop, có phải tự nộp thuế không?
+Từ ngày 01/07/2025, các sàn TMĐT có tích hợp thanh toán có nghĩa vụ khấu trừ và nộp thuế thay người bán. Tuy nhiên nếu doanh thu của bạn vượt quá 3 tỷ đồng/năm, bạn vẫn phải tự thực hiện quyết toán thuế cuối năm.
 
-### Q4: Freelancer nhận tiền từ nước ngoài (Upwork, YouTube) có phải nộp thuế VN?
-CÓ. Nếu bạn là cá nhân cư trú tại VN thì phải kê khai và nộp thuế TNCN cho thu nhập từ mọi nguồn, kể cả nước ngoài.
+---
+
+### Q3: Tôi bán hàng qua Facebook/Zalo (livestream tự do), có phải nộp thuế không?
+CÓ, nếu doanh thu cả năm từ hoạt động bán hàng của bạn vượt quá **1 tỷ đồng**. Vì các kênh này không tích hợp thanh toán tự động, bạn phải tự đăng ký mã số thuế cá nhân kinh doanh, tự kê khai và nộp thuế theo quý. Nếu doanh thu từ 1 tỷ đồng trở xuống, bạn được miễn thuế hoàn toàn nhưng vẫn phải kê khai doanh thu 1 lần/năm trước ngày 31/01 năm sau.
+
+---
+
+### Q4: Freelancer nhận tiền từ nước ngoài (Upwork, YouTube, AdSense) có phải nộp thuế không?
+CÓ. Nếu bạn là cá nhân cư trú tại Việt Nam thì phải kê khai và nộp thuế TNCN đối với thu nhập phát sinh từ mọi nguồn (bao gồm cả thu nhập từ nước ngoài). Thuế suất áp dụng theo tỷ lệ % ngành nghề (ví dụ dịch vụ là 2% TNCN + 5% GTGT, nội dung số là 5% TNCN + 5% GTGT) nếu doanh thu trên 1 tỷ đồng/năm.
+
+---
 
 ### Q5: Giảm trừ gia cảnh năm 2026 là bao nhiêu?
-- Bản thân: 15,5 tr/tháng (186 tr/năm) 
-- Mỗi NPT: 6,2 tr/tháng
-- Tăng ~40% so với trước
+- Bản thân người nộp thuế: 15,5 triệu đồng/tháng (186 triệu đồng/năm).
+- Mỗi người phụ thuộc: 6,2 triệu đồng/tháng.
+*(Mức này áp dụng thống nhất cho kỳ tính thuế năm 2026 theo Nghị quyết 110/2025/UBTVQH15)*.
 
-### Q6: Tôi cần đăng ký người phụ thuộc ở đâu?
-- Nộp hồ sơ tại cơ quan thuế quản lý HOẶC thông qua tổ chức chi trả thu nhập
-- Hồ sơ gồm: tờ khai đăng ký NPT + giấy tờ chứng minh quan hệ
+---
 
-### Q7: Lệ phí môn bài năm 2026 có phải nộp không?
-KHÔNG. Từ 01/01/2026, bãi bỏ lệ phí môn bài cho hộ KD, cá nhân KD và doanh nghiệp *(Luật 109/2025/QH15, Điều 35)*. Áp dụng cho tất cả quy mô.
+### Q6: Ngưỡng thu nhập tối đa để đăng ký một người là người phụ thuộc (NPT) là bao nhiêu?
+Theo Thông tư 87/2026/TT-BTC, mức thu nhập bình quân tháng trong năm từ tất cả các nguồn của người phụ thuộc được áp dụng giảm trừ gia cảnh không vượt quá **3 triệu đồng/tháng** (nâng lên từ mức 1 triệu đồng/tháng trước đây).
 
-### Q8: Hoàn thuế mất bao lâu?
-Nếu nộp qua eTax Mobile hoặc cổng thuế điện tử và đủ ĐK, hệ thống tự xử lý hoàn thuế trong **3 ngày làm việc**.
+---
 
-### Q9: Nộp quyết toán muộn có bị phạt không?
-- Nếu **được hoàn thuế**: KHÔNG bị phạt
-- Nếu **phải nộp thêm thuế**: bị phạt hành chính + phạt chậm nộp tiền thuế
+### Q7: Tôi cần chuẩn bị hồ sơ gì để đăng ký người phụ thuộc?
+Hồ sơ đăng ký gồm tờ khai đăng ký NPT và các giấy tờ chứng minh mối quan hệ (Giấy khai sinh, Giấy chứng nhận kết hôn, Căn cước công dân). 
 
-### Q10: KOL nhận sản phẩm review (không nhận tiền) có phải nộp thuế không?
-CÓ, nếu sản phẩm có giá trị. Giá trị sản phẩm nhận được tính là thu nhập từ quà tặng. Tuy nhiên trong thực tế rất khó kiểm soát nếu dưới ngưỡng.
+*Lưu ý đặc biệt từ 01/07/2026:* Cơ quan thuế sẽ ưu tiên tự khai thác, sử dụng dữ liệu thông tin trên Cổng dịch vụ công quốc gia, CSDL quốc gia để làm căn cứ xác định NPT. Người nộp thuế chỉ phải cung cấp giấy tờ giấy khi hệ thống không thể chia sẻ dữ liệu số (TT 87/2026/TT-BTC).
 
-### Q11: Biểu thuế lũy tiến 2026 khác gì so với 2025?
-- Giảm từ 7 bậc -> 5 bậc
-- Bậc 2: 15% giảm -> 10%
-- Bậc 3: 25% giảm -> 20%
-- Khoảng cách bậc nới rộng hơn -> nhiều người nộp ít thuế hơn
+---
 
-### Q12: Cá nhân kinh doanh có được trừ chi phí không?
-CÓ, từ 2026 hộ/cá nhân KD có DT > 3 tỷ/năm được tính thuế theo phương pháp doanh thu trừ chi phí (tương tự doanh nghiệp). Phải có sổ sách kế toán đầy đủ.
+### Q8: Đăng ký người phụ thuộc bị khuyết tật trong độ tuổi lao động có yêu cầu mới gì không?
+CÓ. Theo Thông tư 87/2026/TT-BTC, hồ sơ xác định NPT là người trong độ tuổi lao động bị khuyết tật hoặc mất khả năng lao động phải có giấy tờ chứng minh có **tỷ lệ suy giảm khả năng lao động từ 81% trở lên** do cơ quan có thẩm quyền cấp (quy định cũ trước đây không yêu cầu định lượng cụ thể tỷ lệ này).
 
-**Lưu ý quan trọng:** Thuế suất thuế TNCN cho cá nhân kinh doanh KHÁC với biểu lũy tiến 5 bậc (5%-35%) dùng cho thu nhập lương:
-- DT 3-50 tỷ: thuế suất **17%** trên lợi nhuận (DT - CP)
-- DT > 50 tỷ: thuế suất **20%** trên lợi nhuận (DT - CP)
-- Biểu lũy tiến 5 bậc (5%-35%) chỉ áp dụng cho **thu nhập từ tiền lương, tiền công**.
+---
 
-### Q13: Lợi tức từ công ty TNHH 1TV do cá nhân làm chủ có phải nộp thuế TNCN không?
-**KHÔNG.** Khoản lợi tức cá nhân nhận được từ công ty TNHH 1TV do cá nhân làm chủ không tính vào thu nhập chịu thuế từ đầu tư vốn, với điều kiện DN đã nộp thuế TNDN tại VN *(CV 2709/CT-CS ngày 28/04/2026)*.
+### Q9: Hoàn thuế TNCN mất bao lâu?
+- Hoàn thuế tự động (hồ sơ đơn giản, đầy đủ, e-tax tự động khớp dữ liệu): xử lý từ **3 đến 6 ngày làm việc**.
+- Hoàn thuế thuộc diện kiểm tra sau: tối đa **45 ngày**.
+- Hoàn thuế thuộc diện kiểm tra trước: tối đa **6 tháng** (áp dụng với đối tượng rủi ro cao).
 
-### Q14: Tiền lương làm thêm giờ, làm việc ban đêm có được miễn thuế TNCN không?
-**CÓ.** Từ ngày 01/07/2026, theo Khoản 8 Điều 4 Luật Thuế TNCN 2025 (Luật 109/2025/QH15), toàn bộ tiền lương trả cho thời gian làm thêm giờ, làm việc ban đêm, làm việc vào ngày nghỉ/ngày lễ được **miễn thuế TNCN 100%** (không còn giới hạn chỉ miễn phần chênh lệch như trước đây). Hộ kinh doanh hoặc kế toán doanh nghiệp khi quyết toán thuế cần lưu ý khai tách phần thu nhập này để được khấu trừ chính xác.
+---
+
+### Q10: Nộp hồ sơ quyết toán thuế muộn có bị phạt không?
+- Nếu hồ sơ quyết toán phát sinh **số thuế được hoàn lại** (thuế nộp thừa): **KHÔNG BỊ PHẠT HÀNH CHÍNH** dù nộp muộn sau ngày 30/04.
+- Nếu hồ sơ quyết toán phát sinh **số thuế phải nộp thêm**: Sẽ bị xử phạt hành chính về hành vi chậm nộp hồ sơ khai thuế và phải nộp thêm tiền chậm nộp thuế (0,03%/ngày trên số tiền chậm nộp).
+
+---
+
+### Q11: Lệ phí môn bài năm 2026 có phải nộp không?
+KHÔNG. Từ ngày 01/01/2026, theo quy định tại Luật Thuế TNCN sửa đổi (Luật 109/2025/QH15), lệ phí môn bài chính thức được **bãi bỏ hoàn toàn** đối với hộ kinh doanh, cá nhân kinh doanh và các doanh nghiệp.
+
+---
+
+### Q12: Tiền lương làm thêm giờ, làm việc ban đêm có được miễn thuế TNCN không?
+CÓ. Theo quy định mới từ ngày 01/07/2026 (Luật 109/2025/QH15), toàn bộ tiền lương trả cho thời gian làm thêm giờ, làm việc ban đêm, làm việc vào ngày nghỉ/ngày lễ được **miễn thuế TNCN 100%** (không còn giới hạn chỉ miễn phần chênh lệch vượt so với giờ làm việc bình thường như trước đây).
+
+---
+
+### Q13: Có phải từ ngày 01/07/2026, ngân hàng sẽ tự động cung cấp thông tin số dư tài khoản của khách hàng cho cơ quan thuế không?
+**KHÔNG PHẢI.** Đây là sự hiểu nhầm phổ biến về các quy định trong Nghị định 252/2026/NĐ-CP. Theo quy định, các ngân hàng thương mại chỉ cung cấp các thông tin cơ bản về tài khoản (như tên chủ tài khoản, số hiệu tài khoản, ngày mở/đóng tài khoản) cho cơ quan thuế để phục vụ quản lý, **hoàn toàn không tự động gửi số dư tài khoản hay lịch sử giao dịch chi tiết định kỳ hàng tháng**. Cơ quan thuế chỉ yêu cầu ngân hàng cung cấp số dư và lịch sử giao dịch đối với các cá nhân cụ thể đang thuộc diện thanh tra, kiểm tra thuế do có dấu hiệu vi phạm pháp luật.
+
+---
+
+### Q14: Giao dịch chuyển nhượng tiền ảo, tài sản số (crypto, NFT) có phải nộp thuế TNCN không?
+CÓ. Từ ngày 01/07/2026, Nghị định 253/2026/NĐ-CP chính thức quy định các giao dịch chuyển nhượng tài sản số, tài sản ảo phải nộp thuế TNCN với thuế suất **0,1%** trên giá trị chuyển nhượng từng lần.
+
+---
+
+### Q15: Lợi tức từ công ty TNHH 1TV do cá nhân làm chủ có phải nộp thuế TNCN không?
+KHÔNG. Khoản lợi tức cá nhân nhận được từ công ty TNHH một thành viên do chính cá nhân đó làm chủ không phải tính vào thu nhập chịu thuế từ đầu tư vốn, với điều kiện doanh nghiệp đó đã thực hiện nộp thuế TNDN tại Việt Nam (theo Công văn 2709/CT-CS).

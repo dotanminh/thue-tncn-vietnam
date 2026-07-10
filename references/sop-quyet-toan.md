@@ -1,96 +1,85 @@
-# SOP Quyết Toán Thuế TNCN - Cá Nhân Tự Kê Khai
+# SOP Quyết Toán Thuế TNCN - Cá Nhân Tự Quyết Toán
 
-> **Áp dụng:** Quyết toán thuế TNCN năm 2025 (nộp trong năm 2026)
-> **Hạn chót:** 30/04/2026 (hoặc ngày làm việc tiếp theo nếu trùng lễ -> 04/05/2026)
+> **Áp dụng:** Quyết toán thuế TNCN năm 2026
+> **Hạn chót:** 30/04/2027 (hoặc ngày làm việc tiếp theo nếu trùng ngày nghỉ, lễ)
+> **Cập nhật:** 11/07/2026
 
 ## Ai Cần Tự Quyết Toán?
 
-- [ ] Thu nhập từ tiền lương/tiền công từ 2 nơi trở lên (không đủ ĐK ủy quyền)
-- [ ] Số thuế phải nộp thêm > 50.000 VNĐ so với số đã tạm nộp/khấu trừ
-- [ ] Muốn hoàn thuế hoặc bù trừ vào kỳ tính thuế tiếp theo
+- [ ] Thu nhập từ tiền lương, tiền công từ 2 nơi trở lên (không đủ điều kiện ủy quyền quyết toán cho tổ chức chi trả).
+- [ ] Số thuế phải nộp thêm > 50.000 VNĐ so với số đã tạm nộp hoặc khấu trừ trong năm.
+- [ ] Muốn hoàn thuế hoặc bù trừ số thuế nộp thừa vào kỳ tính thuế tiếp theo.
+
+### Trường hợp KHÔNG phải quyết toán thuế TNCN:
+- Số thuế nộp thừa nhỏ hơn số thuế phải nộp và không có nhu cầu hoàn thuế hoặc bù trừ thuế vào kỳ sau.
+- Có số thuế phải nộp thêm sau quyết toán từ 50.000 VNĐ trở xuống.
+- Cá nhân có thu nhập vãng lai bình quân tháng trong năm không quá **15 triệu đồng** đã được khấu trừ 10% tại nguồn (nâng từ mức 10 triệu đồng/tháng theo NĐ 253/2026/NĐ-CP).
 
 ## Hồ Sơ Cần Chuẩn Bị
 
-- [ ] CCCD/CMND (bản sao)
-- [ ] Mã số thuế cá nhân (MST)
-- [ ] Tờ khai quyết toán mẫu **02/QTT-TNCN** (Thông tư 80/2021/TT-BTC)
-- [ ] Phụ lục **02-1/BK-QTT-TNCN** (bảng kê giảm trừ gia cảnh cho NPT - nếu có)
-- [ ] Chứng từ khấu trừ thuế (bản sao)
-- [ ] Hóa đơn đóng góp từ thiện/nhân đạo/khuyến học (nếu có)
-- [ ] Số tài khoản ngân hàng (nếu hoàn thuế)
+- [ ] Bản chụp thẻ Căn cước.
+- [ ] Mã số thuế cá nhân (MST) và tài khoản giao dịch thuế điện tử (đăng ký qua eTax Mobile).
+- [ ] Tờ khai quyết toán thuế Mẫu **02/QTT-TNCN** (Ban hành kèm theo Thông tư 80/2021/TT-BTC).
+- [ ] Phụ lục **02-1/BK-QTT-TNCN** (Bảng kê giảm trừ gia cảnh cho người phụ thuộc).
+- [ ] Chứng từ khấu trừ thuế TNCN (do các đơn vị chi trả thu nhập cấp).
+- [ ] Hóa đơn, chứng từ hợp pháp ghi nhận chi phí học phí học tại Việt Nam của bản thân hoặc NPT (để giảm trừ Giáo dục tối đa 24 triệu đồng/năm).
+- [ ] Hóa đơn, chứng từ hợp pháp ghi nhận chi phí khám chữa bệnh thực tế tại cơ sở y tế trong nước (để giảm trừ Y tế tối đa 23 triệu đồng/năm).
+- [ ] Chứng từ đóng bảo hiểm hưu trí tự nguyện (để giảm trừ tối đa 3 triệu đồng/tháng).
+- [ ] Hóa đơn đóng góp từ thiện, nhân đạo, khuyến học (nếu có).
+- [ ] Thông tin tài khoản ngân hàng của người nộp thuế (để nhận tiền hoàn thuế).
 
 ## SOP: Quyết Toán Qua eTax Mobile (Khuyến nghị)
 
-### Bước 1: Cài đặt & Đăng nhập
-- [ ] Tải app **eTax Mobile** từ App Store / Google Play
-- [ ] Đăng nhập bằng MST + mật khẩu HOẶC VNeID (mức độ 2)
-- [ ] Kiểm tra thông tin cá nhân đã chính xác
+### Bước 1: Đăng nhập hệ thống
+- [ ] Đăng nhập vào ứng dụng **eTax Mobile** bằng mã số thuế cá nhân và mật khẩu (hoặc liên kết tài khoản định danh điện tử VNeID mức độ 2).
+- [ ] Xác nhận thông tin cá nhân hiển thị trên ứng dụng.
 
-### Bước 2: Truy cập chức năng quyết toán
-- [ ] Chọn **"Hỗ trợ quyết toán thuế TNCN"** tại màn hình chính
-- [ ] Chọn **"Hỗ trợ lập tờ khai quyết toán"**
-- [ ] Chọn năm quyết toán: **2025**
+### Bước 2: Khai thác dữ liệu tự động
+- [ ] Chọn **"Hỗ trợ quyết toán"** -> **"Hỗ trợ lập tờ khai quyết toán"**.
+- [ ] Chọn năm quyết toán: **2026**.
+- [ ] Nhấn **"Tra cứu"** để hệ thống tự động tổng hợp thông tin thu nhập và số thuế đã khấu trừ tại nguồn từ cơ sở dữ liệu của ngành thuế.
 
-### Bước 3: Tra cứu dữ liệu
-- [ ] Nhấn **"Tra cứu"** - hệ thống tự tổng hợp dữ liệu thu nhập + thuế đã khấu trừ
-- [ ] Kiểm tra, rà soát dữ liệu (nếu sai, liên hệ đơn vị chi trả để điều chỉnh)
+### Bước 3: Lập tờ khai 02/QTT-TNCN
+- [ ] Chọn chức năng **"Lập tờ khai 02/QTT-TNCN gợi ý"**.
+- [ ] Điền các thông tin bổ sung và kiểm tra số liệu thu nhập chịu thuế, số bảo hiểm bắt buộc đã đóng.
+- [ ] Khai thông tin các khoản giảm trừ mới phát sinh (chi phí Giáo dục tối đa 24tr/năm, chi phí Y tế tối đa 23tr/năm, bảo hiểm hưu trí tự nguyện tối đa 3tr/tháng).
 
-### Bước 4: Tạo tờ khai
-- [ ] Nhấn **"Tạo tờ khai 02/QTT-TNCN gợi ý"**
-- [ ] Trả lời các câu hỏi hệ thống đưa ra
-- [ ] Điền thông tin vào tờ khai + phụ lục
+### Bước 4: Đăng ký người phụ thuộc
+- [ ] Vào phụ lục **02-1/BK-QTT-TNCN** để kiểm tra và bổ sung thông tin người phụ thuộc.
+- [ ] *Lưu ý:* Cơ quan thuế ưu tiên khai thác dữ liệu từ Cổng dịch vụ công quốc gia và Cơ sở dữ liệu quốc gia để xác thực thông tin mối quan hệ của NPT nhằm tối giản hồ sơ giấy tờ (TT 87/2026/TT-BTC).
 
-### Bước 5: Kiểm tra người phụ thuộc
-- [ ] Vào **"Bảng kê 02-1/BK-QTT-TNCN"** kiểm tra thông tin NPT
-- [ ] Bổ sung NPT nếu bị sót
+### Bước 5: Nộp tờ khai và Đính kèm chứng từ
+- [ ] Điền thông tin tài khoản ngân hàng nhận tiền hoàn thuế (nếu có số thuế nộp thừa).
+- [ ] Xác nhận cam kết thông tin kê khai trung thực.
+- [ ] Tải lên (upload) bản chụp các chứng từ khấu trừ thuế, hóa đơn học phí, hóa đơn viện phí chứng minh giảm trừ.
+- [ ] Nhấn **"Nộp tờ khai"** và nhập mã xác thực OTP gửi về số điện thoại đăng ký để hoàn tất.
 
-### Bước 6: Cam kết & Nộp
-- [ ] Kiểm tra lại toàn bộ thông tin tờ khai
-- [ ] Tích ô **cam kết** với số liệu đã khai
-- [ ] Nếu được hoàn thuế: điền thông tin tài khoản ngân hàng
-- [ ] Nhấn **"Nộp tờ khai"**
+### Bước 6: Nộp thuế (nếu có số thuế phải nộp thêm)
+- [ ] Chọn mục **"Nộp thuế"** trên trang chủ eTax Mobile.
+- [ ] Thực hiện thanh toán trực tuyến số thuế nộp thêm qua cổng liên kết ngân hàng.
 
-### Bước 7: Đính kèm hồ sơ
-- [ ] Upload chứng từ khấu trừ thuế
-- [ ] Upload hợp đồng lao động (nếu cần)
-- [ ] Upload CCCD
-
-### Bước 8: Xác thực OTP
-- [ ] Nhập mã OTP gửi về số điện thoại đã đăng ký
-- [ ] Hoàn tất nộp tờ khai
-
-### Bước 9: Nộp tiền thuế (nếu phải nộp thêm)
-- [ ] Tại trang chủ eTax Mobile, chọn **"Nộp thuế"**
-- [ ] Chọn **"Tra cứu"** -> xem số thuế phải nộp
-- [ ] Nhấn **"Nộp tất cả"** -> **"Tạo giấy nộp tiền"**
-- [ ] Chọn phương thức thanh toán (liên kết ngân hàng)
+---
 
 ## SOP: Quyết Toán Qua Cổng Thuế Điện Tử (canhan.gdt.gov.vn)
 
-### Bước 1-2: Đăng nhập & Truy cập
-- [ ] Truy cập **canhan.gdt.gov.vn**, đăng nhập
-- [ ] Chọn **"Quyết toán thuế"** -> **"Kê khai trực tuyến"**
+### Bước 1: Đăng nhập & Chọn tờ khai
+- [ ] Truy cập website **canhan.gdt.gov.vn**, đăng nhập bằng tài khoản thuế của cá nhân.
+- [ ] Chọn mục **"Quyết toán thuế"** -> **"Kê khai trực tuyến"**.
+- [ ] Chọn tờ khai Mẫu **02/QTT-TNCN** và chọn năm tính thuế 2026.
 
-### Bước 3-4: Kê khai
-- [ ] Chọn tờ khai **02/QTT-TNCN**
-- [ ] Điền thông tin cá nhân, chọn cơ quan thuế
-- [ ] Khai chi tiết + bảng kê giảm trừ gia cảnh
+### Bước 2: Kê khai thông tin & Nộp trực tuyến
+- [ ] Khai thông tin thu nhập, bảo hiểm, giảm trừ gia cảnh và các khoản giảm trừ chi phí học phí, khám bệnh thực tế.
+- [ ] Chọn **"Kết xuất XML"** để lưu bản sao lưu phòng hờ.
+- [ ] Tải lên các tệp chứng từ đính kèm (dạng PDF hoặc ảnh chụp chứng từ).
+- [ ] Nộp tờ khai bằng mã OTP xác thực.
 
-### Bước 5: Nộp
-- [ ] Kiểm tra, cam đoan, chọn **"Kết xuất XML"** lưu
-- [ ] Nộp tờ khai + đính kèm tài liệu
+---
 
-## Mẫu Biểu Quan Trọng
+## Lưu Ý Quan Trọng khi Quyết Toán Thuế
 
-| Mẫu | Dùng cho |
-|-----|---------|
-| **02/QTT-TNCN** | Cá nhân tự quyết toán thuế TNCN |
-| **02-1/BK-QTT-TNCN** | Bảng kê giảm trừ gia cảnh cho NPT |
-| **05/QTT-TNCN** | Tổ chức chi trả quyết toán cho NLĐ |
-| **08/CK-TNCN** | Cam kết thu nhập chưa đến ngưỡng chịu thuế |
-
-## Lưu Ý Quan Trọng
-
-- Nộp muộn nhưng có hoàn thuế: **KHÔNG BỊ PHẠT**
-- Hoàn thuế tự động: hệ thống xử lý trong **3 ngày làm việc** nếu đủ ĐK
-- Đã ủy quyền quyết toán: **KHÔNG dùng được** eTax Mobile để tự quyết toán
+- **Thời gian hoàn thuế:** 
+  - Hoàn thuế tự động đối với hồ sơ đầy đủ, rõ ràng: xử lý từ **3 đến 6 ngày làm việc**.
+  - Hoàn thuế có kiểm tra sau: tối đa **45 ngày**.
+  - Hoàn thuế thuộc diện kiểm tra trước: tối đa **6 tháng** (đối với đối tượng rủi ro cao).
+- **Hạn nộp hồ sơ hoàn thuế:** Trường hợp cá nhân nộp hồ sơ quyết toán chỉ để nhận hoàn thuế nộp thừa thì **không bị giới hạn thời hạn nộp** (nộp sau ngày 30/04 vẫn không bị xử phạt hành chính).
+- **Ủy quyền quyết toán:** Nếu đã ký giấy ủy quyền quyết toán cho doanh nghiệp chi trả thu nhập duy nhất thì không được tự lập hồ sơ quyết toán riêng (trừ khi có phát sinh thay đổi thu nhập ngoài).

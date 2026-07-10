@@ -1,6 +1,6 @@
 # Nguồn Tham Khảo - Thuế TNCN Vietnam Skill
 
-> Tất cả nguồn đã được sử dụng trong các reference files. Ngày access: 05/05/2026.
+> Tất cả nguồn đã được sử dụng trong các reference files. Ngày truy cập gần nhất: 11/07/2026.
 
 ## Phân Loại Confidence
 
@@ -14,7 +14,7 @@
 
 | Nguồn | URL đầy đủ | Nội dung chính |
 |-------|-----------|---------------|
-| Chính phủ VN | https://chinhphu.vn | NQ 110/2025, Luật 109/2025/QH15 |
+| Chính phủ VN | https://chinhphu.vn | NQ 110/2025, Luật 109/2025/QH15, NĐ 253/2026/NĐ-CP |
 | Tổng cục Thuế | https://gdt.gov.vn | Hướng dẫn quyết toán, eTax, mẫu biểu |
 | Cổng thuế cá nhân | https://canhan.gdt.gov.vn | Kê khai online |
 | Thư viện Pháp luật | https://thuvienphapluat.vn | Tra cứu luật gốc, nghị định, thông tư |
@@ -46,19 +46,20 @@
 
 | Văn bản | Nội dung | Hiệu lực | Tra cứu |
 |---------|---------|---------|---------|
-| Luật 109/2025/QH15 | Luật Thuế TNCN sửa đổi | 01/07/2026 (áp dụng sớm 01/01/2026) | thuvienphapluat.vn |
-| **Luật 09/2026/QH16** | **Luật sửa đổi các luật thuế** (cho phép CP linh hoạt điều chỉnh ngưỡng DT) | 24/04/2026 | thuvienphapluat.vn |
-| NQ 110/2025/UBTVQH15 | Mức giảm trừ gia cảnh mới | 01/01/2026 | chinhphu.vn |
-| NQ 198/2025/QH15 | Bãi bỏ thuế khoán, ngưỡng 500tr (ban đầu) | 01/01/2026 | chinhphu.vn |
-| **NĐ 161/2026/NĐ-CP** | **Mức lương cơ sở mới 2.530.000đ** (ảnh hưởng trần đóng bảo hiểm) | 01/07/2026 | chinhphu.vn |
+| Luật 109/2025/QH15 | Luật Thuế TNCN sửa đổi | 01/07/2026 (áp dụng từ kỳ tính thuế năm 2026) | thuvienphapluat.vn |
+| Luật 09/2026/QH16 | Luật sửa đổi các luật thuế (cho phép CP linh hoạt điều chỉnh ngưỡng DT) | 24/04/2026 | thuvienphapluat.vn |
+| **NĐ 253/2026/NĐ-CP** | **Quy định chi tiết và biện pháp thi hành Luật Thuế thu nhập cá nhân** | 01/07/2026 | chinhphu.vn |
+| **TT 87/2026/TT-BTC** | **Quy định chi tiết Luật Thuế thu nhập cá nhân số 109/2025/QH15 và NĐ 253/2026/NĐ-CP** (thay thế TT 111/2013/TT-BTC) | 01/07/2026 | mof.gov.vn |
+| **NĐ 252/2026/NĐ-CP** | **Quy định chi tiết một số điều của Luật Quản lý thuế 2025** | 01/07/2026 | chinhphu.vn |
+| **NĐ 254/2026/NĐ-CP** | **Quy định chi tiết về hóa đơn điện tử, chứng từ điện tử** | 01/07/2026 | chinhphu.vn |
+| **TT 91/2026/TT-BTC** | **Hướng dẫn xử lý hóa đơn điện tử lập sai** | 01/07/2026 | mof.gov.vn |
+| NQ 110/2025/UBTVQH15 | Mức giảm trừ gia cảnh mới (15,5tr bản thân, 6,2tr NPT) | 01/01/2026 | chinhphu.vn |
+| NQ 198/2025/QH15 | Bãi bỏ thuế khoán từ 01/01/2026 | 01/01/2026 | chinhphu.vn |
+| NĐ 161/2026/NĐ-CP | Mức lương cơ sở mới 2.530.000đ (ảnh hưởng trần đóng bảo hiểm) | 01/07/2026 | chinhphu.vn |
 | NĐ 293/2025/NĐ-CP | Lương tối thiểu vùng mới (trần BHTN) | 01/01/2026 | thuvienphapluat.vn |
-| **NĐ 68/2026/NĐ-CP** | **Chính sách thuế HKD/CNKD mới** (5 chương, 19 điều) | 05/03/2026 | chinhphu.vn |
-| **NĐ 141/2026/NĐ-CP** | **Nâng ngưỡng miễn thuế HKD lên 1 tỷ/năm** (sửa NĐ 68) | 29/04/2026 (hồi tố 01/01/2026) | chinhphu.vn, laodong.vn |
-| **TT 18/2026/TT-BTC** | **Hướng dẫn thủ tục thuế HKD** (thay TT 40/2021 + TT 100/2021) | 05/03/2026 | chinhphu.vn |
-| **NĐ 137/2026/NĐ-CP** | **Quản lý hoạt động kinh doanh đa cấp** (cấm công chức tham gia) | 01/07/2026 | chinhphu.vn |
-| NĐ hướng dẫn Luật 109/2025 | Hướng dẫn thuế TNCN tiền lương, tiền công | ⚠️ **Vẫn đang dự thảo** (tính đến 05/05/2026) | mof.gov.vn |
+| NĐ 141/2026/NĐ-CP | Nâng ngưỡng miễn thuế HKD lên 1 tỷ/năm | 29/04/2026 (hồi tố 01/01/2026) | chinhphu.vn |
+| TT 50/2026/TT-BTC | Sửa đổi TT 18/2026/TT-BTC về quản lý thuế đối với HKD, CNKD | 01/07/2026 | mof.gov.vn |
 | TT 80/2021/TT-BTC | Mẫu tờ khai thuế (QT cá nhân) | Đang áp dụng | thuvienphapluat.vn |
-| NQ 954/2020/UBTVQH14 | Giảm trừ gia cảnh cũ | Hết hiệu lực 31/12/2025 | - |
 
 ## Công Văn Hướng Dẫn (🟡 MEDIUM)
 
@@ -70,13 +71,10 @@
 ## Luật BHXH & Việc Làm (🟢 HIGH)
 
 | Văn bản | Nội dung | Hiệu lực | Tra cứu |
-|---------|---------|---------|---------| 
+|---------|---------|---------|---------|
 | Luật BHXH 2024 (41/2024/QH15) | BHXH rút 1 lần: 2 nhóm điều kiện | 01/07/2025 | baohiemxahoi.gov.vn |
 | Luật Việc làm 2025 | Trợ cấp thất nghiệp: công thức, thời gian | 01/01/2026 | thuvienphapluat.vn |
 | NĐ 115/2015/NĐ-CP | Hướng dẫn Luật BHXH (một số điều vẫn áp dụng) | Đang áp dụng | thuvienphapluat.vn |
-| NĐ 293/2025/NĐ-CP | Lương tối thiểu vùng 2026 (trần BHTN) | 01/01/2026 | thuvienphapluat.vn |
 
 > [!WARNING]
 > Quy định thuế thay đổi thường xuyên. Luôn kiểm tra lại với nguồn chính thống (gdt.gov.vn, chinhphu.vn) trước khi áp dụng.
-> NĐ hướng dẫn Luật 109/2025 (cho tiền lương, tiền công) vẫn đang dự thảo tại Bộ Tài chính (05/05/2026). Khi ban hành chính thức cần cập nhật lại skill.
-
